@@ -1,0 +1,36 @@
+baseurl             = "https://mikemcdonalddotco.firebaseapp.com"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = "public"
+author              = "Mike McDonald"
+title               = "Mike McDonald"
+pygmentsuseclasses  = true
+pluralizelisttitles = false
+googleAnalytics     = "UA-89729418-1"
+
+[permalinks]
+fixed = ":title/"
+blog  = "blog/:year/:month/:day/:slug/"
+
+[params]
+author       = "Mike McDonald"
+cachebuster  = true # add the current unix timestamp in query string for cache busting css assets
+dateform     = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description  = "The personal site of Mike McDonald"
+email        = "hello@mikemcdonald.co"
+faviconfile  = "img/leaf.ico"
+github       = "//github.com/mcdonamp"
+highlightjs  = true
+lang         = "en"
+linkedin     = "//linkedin.com/in/asciimike"
+twitter      = "//twitter.com/asciimike"
+
+# gravatar             = ""     # do not use in the same time as avatar
+# avatar               = ""     # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+# highlightjslanguages = ["go"] # additional languages not included in the "common" set
+
+extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove files as necessary.
