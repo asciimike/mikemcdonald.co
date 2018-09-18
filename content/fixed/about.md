@@ -1,7 +1,7 @@
 +++
 date = "2017-01-02T19:00:00-08:00"
-title = "about"
-
+title = "About me"
+slug = "about"
 +++
 
 Hey, I'm Mike! Nice to meet you, and thanks for stopping by :)
@@ -18,8 +18,8 @@ doing embedded software/hardware.
 
 Outside of that:
 
-- I'm a passionate chef who loves nice whisk(e)y
-- I travel as often as I can
+- I'm a passionate chef who loves nice whisky
+- I [travel](/travel) as often as I can
 - I get outdoors to hike, bike, snowboard, or scuba dive
 
-If you find yourself in the Bay Area, reach out and let's grab 🍵!
+If you find yourself in the Bay Area, reach out and let's grab a drink!

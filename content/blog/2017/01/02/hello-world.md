@@ -9,7 +9,7 @@ One of my new years resolutions was to make a website. Inspired by today's
 ["Ask HN: Excluding WordPress, what is your favorite for blogs or small stores?"](https://news.ycombinator.com/item?id=13300024)
 I finally pushed myself to get a site together.
 
-![Ryan Reynolds But Why GIF](images/but-why.gif)
+![Ryan Reynolds But Why GIF](/images/but-why.gif)
 
 I've [made](https://fir-cloudvisiontest.firebaseapp.com/)
 [lots](https://sanichat.firebaseapp.com/) [of](https://zerotoapp-ccd8d.firebaseapp.com/)
@@ -81,10 +81,10 @@ Setting up the domain with Firebase Hosting is straight forward, though adding
 the `TXT` records on Namecheap took a quick search to find the right places.
 I've copied images that show how to select the right domain (click "manage"):
 
-![Select the right domain](images/namecheap-domain-verify-1.png)
+![Select the right domain](/images/namecheap-domain-verify-1.png)
 
 And how to add the correct `TXT` records:
-![Add the appropriate TXT records](images/namecheap-domain-verify-2.png)
+![Add the appropriate TXT records](/images/namecheap-domain-verify-2.png)
 
 The one thing left to do is hook up an email address, though I haven't decided
 if I want to go the [gSuite](https://gsuite.google.com) route, or

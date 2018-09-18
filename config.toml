@@ -1,4 +1,4 @@
-baseurl             = "https://mikemcdonalddotco.firebaseapp.com"
+baseurl             = "https://mikemcdonald.co"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -10,10 +10,30 @@ title               = "Mike McDonald"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-89729418-1"
+logofile            = ""
 
 [permalinks]
-fixed = ":title/"
+fixed = ":slug/"
 blog  = "blog/:year/:month/:day/:slug/"
+cities = "cities/:slug/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Travel"
+weight                 = -100
+identifier             = "travel"
+url                    = "/travel/"
 
 [params]
 author       = "Mike McDonald"
@@ -22,7 +42,7 @@ dateform     = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description  = "The personal site of Mike McDonald"
 email        = "hello@mikemcdonald.co"
-faviconfile  = "img/leaf.ico"
+faviconfile  = "favicon.ico"
 github       = "//github.com/mcdonamp"
 highlightjs  = true
 lang         = "en"
