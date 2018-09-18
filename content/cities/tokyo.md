@@ -63,11 +63,39 @@ karaka ramen (a 3 is spicy enough), and an order of gyoza, which pairs amazingly
 with the provided yuzukoshō. Their iced tea is also fantastic, though I have no
 idea what kind it is (I'll have to buy some and bring it back).
 
+### Ichiran (Multiple locations) 💴
+
+Another chain ramen restaurant, though this one is known for the "antisocial"
+experience and hyperspecific ordering criteria. Buy a ticket from the kiosk,
+sit down in a booth (there are dividers on each side), order your ramen exactly
+how you would like it (broth thickness, noodle texture, garlic from 0 to 13,
+spice levels at similar granularity...), and pass the order through a little
+window where runners will pick it up and deliver the ramen minutes later.
+
+I admit that it's not my favorite ramen (nor experience), but definitely worth
+trying for both.
+
 ### Ramen Street (Tokyo station) 💴
 
 For a wide variety of ramen, head to the basement by the East Central exit of
 Tokyo station and visit Ramen street. Lots of variety, each with varying line
 lengths (some up to an hour!).
+
+### Taishoken (Ikebukuro) 💴
+
+This was the first bowl of ramen I ever had in Japan... it was amazing. The
+noodles are super thick compared to other restaurants, and the broth is rich
+(though a little on the fishier side). They also have amazing gyoza, though if
+you order a bowl of ramen and gyoza you'll have a hard time finishing both.
+
+Located right by the higashi-ikebukuro station, you might have to stand and wait
+a little on the balcony for the restaurant to clear out.
+
+### Afuri (Multiple locations) 💴
+
+Right next door to Butagami (below) is a unique ramen restaurant: they do shio
+and shoyu ramen with citrus. It's much lighter than any of the ramens above,
+and good for a warm day.
 
 ### Butagami (Roppongi)
 
