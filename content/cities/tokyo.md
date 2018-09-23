@@ -41,8 +41,8 @@ going to leave out a lot of the fantastic sushi restaurants, and instead focus
 on my holy trinity of Japanese cuisine:
 
   * Ramen
-  * Gyoza
   * Tonkatsu
+  * Yakiniku
 
 ### Gogyo (Nishiazabu)
 
@@ -59,25 +59,24 @@ there's an English menu (it's across the street from an American military base).
 ### Ippudo (Multiple locations)
 
 Ippudo is a chain restaurant, so pick the closest one to you. Order the spicy
-karaka ramen (a 3 is spicy enough), and an order of gyoza, which pairs amazingly
-with the provided yuzukoshō. Their iced tea is also fantastic, though I have no
-idea what kind it is (I'll have to buy some and bring it back).
+karaka ramen (an 8 is spicy enough), and an order of gyoza, which pairs
+amazingly with the provided yuzukoshō. Their rooibos iced tea is also fantastic.
 
 ### Ichiran (Multiple locations) 💴
 
 Another chain ramen restaurant, though this one is known for the "antisocial"
 experience and hyperspecific ordering criteria. Buy a ticket from the kiosk,
 sit down in a booth (there are dividers on each side), order your ramen exactly
-how you would like it (broth thickness, noodle texture, garlic from 0 to 13,
-spice levels at similar granularity...), and pass the order through a little
-window where runners will pick it up and deliver the ramen minutes later.
+how you would like it (broth thickness, noodle texture, garlic, spice), and pass
+the order through a little window where runners will pick it up and deliver the
+ramen minutes later.
 
 I admit that it's not my favorite ramen (nor experience), but definitely worth
 trying for both.
 
 ### Ramen Street (Tokyo station) 💴
 
-For a wide variety of ramen, head to the basement by the East Central exit of
+For a wide variety of ramen, head to the basement by the Yaesu south exit of
 Tokyo station and visit Ramen street. Lots of variety, each with varying line
 lengths (some up to an hour!).
 
@@ -112,12 +111,22 @@ It's not as good as the Rusutsu black pork we had
 [at Chitose in Hakuba](https://goo.gl/maps/wtTbFzjtYQk), but it's still
 excellent.
 
-### Toraji (Nishiazabu) 🚬
+### Toraji (Multiple locations) 🚬
 
 If you're in the mood for yakiniku, I strongly recommend heading to Toraji for
 their wagyu and super prime short rib. It'll be a little on the expensive side,
 but I've managed to do a full meal (salad, meat, drinks) with coworkers for $75
 per person. Reservations recommended on busier nights.
+
+### Yakiniku Champion (Ebisu) 🚬
+
+The first thing you'll notice when you enter Yakiniku Champion is that they've
+blatently stolen their branding from the Chicago Bears. The second thing you'll
+notice is the display case of well marbled meats ready for your consumption.
+
+Definitely on the expensive side (you'll spend ~$100/person for food and
+drinks), but well worth it for the amazing beef. We were able to get in without
+a reservation after waiting maybe 30 minutes (got a drink around the corner).
 
 ### Ten Ryu Gyoza (Ginza)
 
@@ -154,10 +163,10 @@ I see the same faces plus a new face or two.
 
 ### Campbeltoun Loch (Ginza) 💴 🚬
 
-Right outside of the Hibya station (gate XXX), turn right at the above ground
-train tracks and look on the right side of the street for a basement entrance
-to one of the best selections of scotch in Tokyo. It's a tight fit (and it'll
-only fit ~6 people), but it's definitely worth it.
+Right outside of  Hibya station, turn right at the above ground train tracks and
+look on the right side of the street for a basement entrance to one of the best
+selections of scotch in Tokyo. It's a tight fit (and it'll only fit ~6 people),
+but it's definitely worth it.
 
 Half pours are half the cost of a full pour (not so in many places), so it's a
 great opportunity to try a few different things.
@@ -182,11 +191,26 @@ impress your boss (and they're paying).
 
 Caol Ila came at the recommendation of a fellow whisky fan I met in Campbeltoun
 Loch in June 2018. She actually told me to go to a different bar ()
-but apparently the AC was out so it was closed (summer in Tokyo requires AC).
+but apparently the AC was out, so it was closed (summer in Tokyo very much
+requires AC).
 
 As the name states, they've got a *lot* of Caol Ila, as well as some other peaty
 scotches (Ardbeg, Hakushu), and some SMWS bottles. Definitely go if you like
 peaty whisky.
+
+### Ne Plus Ultra (Roppongi, Ginza) 🚬
+
+If you know me well, you'll know that after whisky itself, my favorite thing in
+the world is finding hidden bars to drink whisky in. Ne Plus Ultra rises to the
+occasion. Hidden in the basement of an otherwise unassuming building next door
+to the Ippudo in Roppongi, you'll need to use a member's RFID card to enter.
+
+Once you're in, head down the stairs into a sitting room with overstuffed
+leather armchairs, a wood fireplace (unclear if it's ever used), and a bar
+with a great selection of whisky, rum, and cognac designed to pair with the
+Cuban cigars stored in the humidor at the center of the bar.
+
+There's another, larger location in Ginza as well.
 
 ### Koffee Mayama (Harajuku)
 
@@ -205,12 +229,11 @@ shop for is alcohol related, though there will be a few exceptions.
 
 ### Liquors Hasegawa (Tokyo Station)
 
-There are two locations in Tokyo Station, this is the bigger of the two (and
-more importantly, the one that offers samples). Samples vary from ¥100 to ¥500,
-so it's one of the best ways I know of to get rid of all that spare change.
-
-This is also a great place to pick up a bottle of Elixir Vegetal (barrel proof
-Chartreuse green) for about $20 (200ml).
+There are two locations in Tokyo Station, but you'll want to go to the one
+on Yaesu chika first street, as it's the better of the two (it's the one that
+offers samples). Samples vary from ¥100 to ¥500, based on the price of the
+bottle. Typically, I'll stop by on my way out of the country in order to get rid
+of all my spare change.
 
 ### Shinanoya (Ginza, Shinjuku, Shibuya)
 
@@ -226,10 +249,7 @@ Just down the street from Shinanoya, Liquor Express has one of the best
 selections of Japanese whisky I've seen. For a price. Bottles (when they're in
 stock), go for a healthy premium (e.g. Nikka distillery components are ~3x the
 distillery price). They've also got a reasonable selection of old bottles for
-a good discount.
-
-I recommend shopping for scotch of bourbon here though, as they have some
-interesting bottles for a reasonable price.
+a good discount (e.g. I've seen the ceramic Tsuru 17 for $200 several times).
 
 ### Liquor Mountain (Multiple locations)
 
@@ -250,7 +270,7 @@ Cash only makes it hard to buy an expensive bottle though...
 
 ### High-end department or electronics stores (Multiple locations)
 
-Isetan, Matishiya, etc. occasionally select a bottle of Suntory or Kavalan and
+Isetan, Mitsukoshi, etc. occasionally select a bottle of Suntory or Kavalan and
 sell it in their stores for a limited time. Department stores in Japan typically
 have a food hall on the basement floor(s), so look head downstairs and check out
 their selection if you're in the area. No need to go out of the way to seek
