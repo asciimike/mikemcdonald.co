@@ -1,5 +1,5 @@
 +++
-date = "2018-09-18T08:00:00-08:00"
+date = "2018-09-17T22:00:00-08:00"
 title = "Mike's favorite places"
 slug = "my-favorite-places"
 
