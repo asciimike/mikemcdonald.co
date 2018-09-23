@@ -158,7 +158,8 @@ you're ready to do it again tomorrow.
 
 Of course, you'll need to make sure you've got everything accessible and ready
 to go. When you're running out the door on a last minute trip, if everything
-isn't in it's proper place, it's likely to be left behind.
+isn't in it's proper place, it's likely to be left behind. Ironically, this past
+trip I forgot my ABTC because I ignored my own advice. Don't do this!
 
 Pick a bag that's light enough to carry around, but big enough to keep the
 essentials above (maybe leave the swimsuit out), and give everything a place.
