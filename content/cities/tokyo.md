@@ -8,7 +8,7 @@ slug = "tokyo"
 ## Map
 
 Add [my favorite places in Tokyo](https://goo.gl/maps/8rjGJ2C18oD2) and they'll
-apear on the map below!
+appear on the map below!
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.google.com/maps/embed/v1/place?q=tokyo&key=AIzaSyDLYiOj_9ow-VnEoGuZ0_4wG7K0c4vuoQo" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"></iframe>
@@ -52,7 +52,7 @@ burnt miso ramen.
 
 {{< instagram BVLWwU2hJUC >}}
 
-It's right around ¥1000 (depending on the optiomns), though if you want a 
+It's right around ¥1000 (depending on the options), though if you want a 
 highball to accompany it, that'll be another ¥700. The service is fast and
 there's an English menu (it's across the street from an American military base).
 
@@ -121,7 +121,7 @@ per person. Reservations recommended on busier nights.
 ### Yakiniku Champion (Ebisu) 🚬
 
 The first thing you'll notice when you enter Yakiniku Champion is that they've
-blatently stolen their branding from the Chicago Bears. The second thing you'll
+blatantly stolen their branding from the Chicago Bears. The second thing you'll
 notice is the display case of well marbled meats ready for your consumption.
 
 Definitely on the expensive side (you'll spend ~$100/person for food and
@@ -130,8 +130,8 @@ a reservation after waiting maybe 30 minutes (got a drink around the corner).
 
 ### Ten Ryu Gyoza (Ginza)
 
-A Chinese restaurant on the north side of Ginza with the largest and juciest
-potstickers you've ever encountered. Duck into the alcove, head to the back left
+A Chinese restaurant on the north side of Ginza with the largest and juiciest
+gyoza you've ever encountered. Duck into the alcove, head to the back left
 corner, and take the elevator up to 4F. There's usually a line, so be prepared
 to wait for a seat.
 
