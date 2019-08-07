@@ -34,4 +34,4 @@ Without further ado:
  * [Warsaw](/cities/warsaw)
 
 If you like my suggestions, or think I should add something new, feel free to
-reach out and let me know!
+[reach out](mailto:self@mikemcdonald.co) and let me know!
