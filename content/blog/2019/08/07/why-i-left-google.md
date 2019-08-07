@@ -98,7 +98,8 @@ test with flying colors), the work is technically complex and fascinating, and
 My personal learning had slowed significantly, and more and more of my day was
 soaked up with the workings of a large company (status meetings, planning
 meetings, planning for status meetings, etc.). I felt like I was devoting less
-energy towards solving problems, and more time to solving our internal problems.
+energy towards solving customer problems, and more time to solving internal
+problems.
 
 Attempts to change issues I saw that were affecting customer adoption were
 therefore slow. It took more than a year to get [Cloud Functions IAM](https://cloud.google.com/functions/docs/securing)
@@ -106,7 +107,7 @@ from Alpha to Beta. Even simple docs changes took days to weeks. It felt like
 the organization had calcified, and I was restless to ship (that's what good PMs
 do, right?).
 
-But ultimately, I was burnt out. I travelled for most of 2018 and early 2019 
+But ultimately, I was burnt out. I traveled for most of 2018 and early 2019 
 visiting developers and speaking at conferences (thanks in part to the slow
 development cycle), and all that time meant a lack of stability in my personal
 life. I couldn't keep up a workout schedule (even though there was a Google gym
@@ -123,6 +124,7 @@ get back in shape, and carve out time for my personal life.
 
 I still plan on doing something product related in the future, so as I get
 a little further from work expect some product strategy blog posts as well
-as fun tweets about the personal projects I'm working on. And as always,
-I'd love to hear what's on your mind--my contact info is at the bottom of
-every page.
+as fun tweets about the personal projects I'm working on. At some point,
+I'll be searching for what's next, so if you've got interesting positions
+open I'm all ears. And as always, I'd love to hear what's on your mind--
+my contact info is at the bottom of every page.
