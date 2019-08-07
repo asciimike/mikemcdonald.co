@@ -1,7 +1,7 @@
 ---
 title: "Why I Left Google"
-date: 2019-08-07T11:30:14-07:00
-draft: true
+date: 2019-08-07T11:30:00-07:00
+draft: false
 ---
 
 After five years working on Firebase and Google Cloud Platform, I left Google

@@ -4,22 +4,25 @@ title = "About me"
 slug = "about"
 +++
 
-Hey, I'm Mike! Nice to meet you, and thanks for stopping by :)
+Hey, I'm Mike!
 
-I'm a product manager at [Firebase](https://firebase.google.com/), an iOS
-developer, and a part-time hardware hacker. I spend my time making mobile
-development easier, connecting my appliances to the internet, and talking
-to developers about why those are useful (and fun!) things to do.
+I was the first product manager at [Firebase](https://firebase.google.com/),
+and a long time PM on [Google Cloud Platform](https://cloud.google.com/),
+specifically on serverless compute (App Engine, Cloud Functions, and Cloud Run).
+[I left Google in July 2019](/blog/2019/08/07/why-i-left-google), and am
+currently taking some time off to work on personal projects and detox from
+the corporate lifestyle.
 
-Formerly, I worked at [The Omni Group](https://www.omnigroup.com/)
+Before Firebase, I worked at [The Omni Group](https://www.omnigroup.com/)
 building iOS apps, [Texas Instruments](http://www.ti.com/) working on embedded
 microcontrollers (specifically the MSP430), and a few other places, mostly
 doing embedded software/hardware.
 
-Outside of that:
+Outside of work:
 
-- I'm a passionate chef who loves nice whisky
+- I'm a lover of interesting whisky, rum, and cognac
 - I [travel](/travel) as often as I can
 - I get outdoors to hike, bike, snowboard, or scuba dive
 
-If you find yourself in the Bay Area, reach out and let's grab a drink!
+If you find yourself in the Bay Area, reach out and let's grab a warm
+or cool beverage!
