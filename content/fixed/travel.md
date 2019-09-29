@@ -26,6 +26,7 @@ Without further ado:
  * [Manila](/cities/manila)
  * [New York](/cities/new-york)
  * [Oslo](/cities/oslo)
+ * [San Francisco](/cities/san-francisco)
  * [Seattle](/cities/seattle)
  * [Stockholm](/cities/stockholm)
  * [Tel Aviv](/cities/tel-aviv)
