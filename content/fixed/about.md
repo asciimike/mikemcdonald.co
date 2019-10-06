@@ -8,10 +8,13 @@ Hey, I'm Mike!
 
 I was the first product manager at [Firebase](https://firebase.google.com/),
 and a long time PM on [Google Cloud Platform](https://cloud.google.com/),
-specifically on serverless compute (App Engine, Cloud Functions, and Cloud Run).
+specifically on serverless compute ([App Engine](http://cloud.google.com/appengine),
+[Cloud Functions](http://cloud.google.com/functions), and
+[Cloud Run](http://cloud.google.com/run)).
 [I left Google in July 2019](/blog/2019/08/07/why-i-left-google), and am
 currently taking some time off to work on personal projects and detox from
-the corporate lifestyle.
+the corporate lifestyle. I'm also teaching a
+[course on product management](/pm-course) at [Rose-Hulman](https://rose-hulman.edu).
 
 Before Firebase, I worked at [The Omni Group](https://www.omnigroup.com/)
 building iOS apps, [Texas Instruments](http://www.ti.com/) working on embedded

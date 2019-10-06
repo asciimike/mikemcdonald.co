@@ -1,8 +1,11 @@
 ---
 title: "Why I Left Google"
 date: 2019-08-07T11:30:00-07:00
-draft: false
 ---
+
+__Update 10/5/19:__ I've started looking around for something new and
+[published a post](/blog/2019/10/05/selection-criteria/) on a framework
+for making such a decision as well as what I'm looking for.
 
 After five years working on Firebase and Google Cloud Platform, I left Google
 on July 12, 2019. In an effort to avoid,
@@ -95,11 +98,11 @@ and thoughtful (the vast majority of folks I worked with would pass the airport
 test with flying colors), the work is technically complex and fascinating, and
 (of course) the perks are excellent.
 
-My personal learning had slowed significantly, and more and more of my day was
-soaked up with the workings of a large company (status meetings, planning
-meetings, planning for status meetings, etc.). I felt like I was devoting less
-energy towards solving customer problems, and more time to solving internal
-problems.
+However, despite the perks and excellent coworkers, I felt my personal growth
+had slowed significantly, and more and more of my day was soaked up with the
+workings of a large company (status meetings, planning meetings, planning for
+status meetings, etc.). I felt like I was devoting less energy towards solving
+customer problems, and more time to solving internal problems.
 
 Attempts to change issues I saw that were affecting customer adoption were
 therefore slow. It took more than a year to get [Cloud Functions IAM](https://cloud.google.com/functions/docs/securing)
@@ -126,5 +129,4 @@ I still plan on doing something product related in the future, so as I get
 a little further from work expect some product strategy blog posts as well
 as fun tweets about the personal projects I'm working on. At some point,
 I'll be searching for what's next, so if you've got interesting positions
-open I'm all ears. And as always, I'd love to hear what's on your mind--
-my contact info is at the bottom of every page.
+open I'm all ears. And as always, I'd love to hear what's on your mind!

@@ -1,9 +1,10 @@
 +++
-date = "2019-09-29T17:00:00-08:00"
+date = "2018-09-02T17:00:00-08:00"
 title = "San Francisco"
 slug = "san-francisco"
 
 +++
+
 
 ## Map
 Add [my favorite places in San Francisco](https://goo.gl/maps/uSKv6DAr47F8UhRe7) and

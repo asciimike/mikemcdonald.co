@@ -35,6 +35,12 @@ weight                 = -100
 identifier             = "travel"
 url                    = "/travel/"
 
+[[menu.main]]
+name                   = "PM Course"
+weight                 = -90
+identifier             = "pm-course"
+url                    = "/pm-course/"
+
 [params]
 author       = "Mike McDonald"
 cachebuster  = true # add the current unix timestamp in query string for cache busting css assets
