@@ -1,4 +1,4 @@
-baseurl             = "https://mikemcdonald.co"
+baseurl             = "https://mikemcdonald.co/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -48,15 +48,15 @@ dateform     = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description  = "The personal site of Mike McDonald"
 email        = "self@mikemcdonald.co"
-faviconfile  = "favicon.ico"
-github       = "//github.com/asciimike"
+faviconfile  = "images/favicon_noshadow.ico"
 highlightjs  = true
 lang         = "en"
-linkedin     = "//linkedin.com/in/asciimike"
-twitter      = "//twitter.com/asciimike"
+github       = "asciimike"
+linkedin     = "asciimike"
+twitter      = "asciimike"
+instagram    = "asciimike"
 
-# gravatar             = ""     # do not use in the same time as avatar
-# avatar               = ""     # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+avatar       = "images/asciimike_540x540.png"
 # highlightjslanguages = ["go"] # additional languages not included in the "common" set
 
-extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove files as necessary.
+# extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove files as necessary.
