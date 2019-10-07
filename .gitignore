@@ -2,7 +2,6 @@
 build/
 
 # Hugo content
-themes/
 
 # Firebase info
 .firebaserc
