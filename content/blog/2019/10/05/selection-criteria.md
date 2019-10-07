@@ -24,23 +24,24 @@ it took some time to adjust, overall it was a great experience.
 
 However, I was acutely aware that while I succeeded in my primary goal,
 I had unintentionally neglected other important aspects of my life, such
-as my outdoor hobbies and a healthy diet. so when I started looking for a
+as my outdoor hobbies and a healthy diet. So when I started looking for a
 new job, my friend Tim suggested I come up with a prioritized list of
 things that mattered to me I could use to measure each role: my
 __selection criteria__.
 
 # Why have selection criteria?
 
-Selection criteria provide necessary __clarity__ that help you decide if
-opportunities are a good fit and then communicate that "goodness of fit"
-metric back to a potential employer.
+When searching for a new role, selection criteria provide necessary
+__clarity__ that help you decide if opportunities are a good fit
+and then communicate that "goodness of fit" metric back to a
+potential employer.
 
 Specifically, I use them for two main purposes:
 
  1. they allow you to __short circuit__ a discussion (e.g. "I don't think this is
     a good fit because _X_")
  2. they can help you to __focus__ a discussion (e.g. "Let's talk more about your
-    plans for _Y_") 
+    plans for _Y_")
 
 # Selecting criteria
 
@@ -65,18 +66,18 @@ Selection criteria for a job often come from the following categories:
 
 Since most of these appear in a job listing, you can quickly bootstrap
 criteria from a role you think is a good fit by identifying the core pieces
-that excite you and then tweaking it, then filtering roles by the new criteria.
-You don't need all of them, and it's better to have fewer than more (provided
-the few are truly important and defensible).
+that excite you, tweaking it a little, then filtering roles by the new criteria.
+You don't need an item from each category, in fact, it's probabl better to have
+fewer than more (provided the few are truly important and defensible).
 
 # Selection criteria in action
 
 A clearly defined and written down set of selection criteria is critical to
-one's happiness after finding a role. As offers that generally meet the
-criteria come in, you can start comparing what seem to be apples to oranges
-using a common framework. 
+picking a role, as well as being satisfied with the new job. As offers that
+generally meet the criteria come in, your selection criteria can provide
+you the ability to "compare apples to oranges".
 
-There are two general approaches I've seen:
+There are two general approaches you can use to compare offers:
 
  * For *quantitative* folks, you can assign weights to each criteria and
    rate each role 1-10 in how well it fits that, then sum the list for each

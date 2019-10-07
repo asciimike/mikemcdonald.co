@@ -22,12 +22,16 @@ My goals for the course are:
  * create a pipeline of good PM hires
  * refresh my own PM skills in perparation for what's next
 
+The primary audience is computer science/software engineering students with no
+experience in product management, and assuming no economics or business background.
+For experienced PMs, it may seem pretty basic, because it is!
+
 While it's hard to fit everything into 30 hours of lecture, here's my first attempt:
 
  * [The what, why, and who of PM; what makes a good product](https://docs.google.com/presentation/d/1fCQRTQA4qupEA2uRf5cLK-vPIzyMPBvJODvgFPSpePI/edit?usp=sharing)
  * [TAM, MVP, and product/market fit](https://docs.google.com/presentation/d/1HP7_beiJ66ABJTr4BMsM0fawHiX9XNtecPML_V0aT4Y/edit?usp=sharing)
  * [Business models and competitive analysis](https://docs.google.com/presentation/d/19XXKTibLyNNZdK1TsC3offY67-pTPwMDBp6FLaKCue8/edit?usp=sharing)
- * Roadmaps, strategy, and stakeholders
+ * Roadmaps, strategy, and stakeholder management
  * Design and user research
  * Metrics and growth
  * Making and spending money
@@ -45,7 +49,8 @@ This course integrates concepts from many books, including:
  * [Hooked](https://www.amazon.com/gp/product/1591847788/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847788&linkCode=as2&tag=mikemcdonald-20&linkId=314809bacddce00b68863436bb4f0d6e)
  * [Cracking the PM Interview](https://www.amazon.com/gp/product/0984782818/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782818&linkCode=as2&tag=mikemcdonald-20&linkId=10e1dfc9ebd0d0768956b88c9b26749a)
 
-As well as [YC Startup School](https://www.startupschool.org).
+[YC Startup School](https://www.startupschool.org) also has great content
+for folks with slightly more experience.
 
 Special thanks to [Cassidy](https://twitter.com/cass_robe),
 [Chrissy](https://twitter.com/chrissymeyer),
