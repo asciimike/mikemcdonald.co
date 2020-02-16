@@ -21,6 +21,7 @@ Without further ado:
  * [Amsterdam](/cities/amsterdam)
  * [Bangkok](/cities/bangkok)
  * [Copenhagen](/cities/copenhagen)
+ * [Denver](/cities/denver)
  * [Hong Kong](/cities/hong-kong)
  * [London](/cities/london)
  * [Manila](/cities/manila)
