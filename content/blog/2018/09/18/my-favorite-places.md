@@ -25,5 +25,5 @@ get there. Given the fullness of time (and a less hectic travel schedule), I'll
 add descriptions to each city.
 
 Note that there are lots of great things to do in these cities! These are *my*
-favorite things, so they may not align with guidebooks or other peoples's blogs.
+favorite things, so they may not align with guidebooks or other peoples blogs.
 But I promise, if you're me, you'll love them ;)
