@@ -40,7 +40,8 @@ extinguish is one of the easiest moat building techniques companies to implement
 Here's how I'd go about building a company with a good moat.
 
 First off, you need a protocol that is mature enough to have significant usage,
-but also crufty enough that features can't be easily added to it.
+but also crufty enough that features can't be easily added to it. It also needs
+to provide backwards compatibility so legacy users aren't left behind.
 
 Some examples:
 
@@ -90,13 +91,6 @@ buying Apple devices, as they only work on Apple hardware, and each add a new
 layer to the moat around that core business. And of all of them, iMessage is
 the best example, in part due to strong social pressure and network effects.
 
-I remember seeing a presentation about how "green bubbles" (Android
-users) get dropped from group chats because iMessage functionality breaks.
-There are similar anecdotes about people refusing to date someone without
-an iPhone, or breaking up when someone gets an Android. I think a lot of
-it comes down to elitism, but it's the software walled garden that got us
-there.
-
 Google has tried to fend this off with RCS (its own extension of SMS, sort
 of backed by the telecom industry), but while that brings certain Android
 devices up to feature parity ("darker blue bubbles", read receipts,
@@ -143,8 +137,8 @@ green: `Sent from Superhuman` below the fold.
 Users on Superhuman also have a "user since 201X" in their contact card, and it's
 only a matter of time before they start adding Superhuman-to-Superhuman only
 functionality (e.g. reaction emoji to email threads or realtime chat). In effect,
-Superhuman becomes the online equivalent of The Battery, and those not present on
-the tool get left out of the real world dealflow.
+Superhuman becomes the online equivalent of [The Battery](https://www.thebatterysf.com/),
+and those not present on the tool get left out of the real world dealflow.
 
 That's a powerful enough incentive to keep paying $30/month, especially since Bloomberg
 charges just over $2000/month for the finance equivalent (chat, meaning access
@@ -160,7 +154,7 @@ a pension funded offense."
 
 Given the high profile dumpster fires that have come out of that and lackluster IPO
 performance of the ones that made it that far, I hope we'll see more startups picking
-defesible positions and having moats grounded in high quality experiences and engineering
+defensible positions and having moats grounded in high quality experiences and engineering
 choices that result in faster, better, or cheaper products.
 
 As always, I'm interested to hear your thoughts, and if you know of any
