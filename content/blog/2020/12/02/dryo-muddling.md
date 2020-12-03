@@ -32,7 +32,7 @@ color and off flavor beverage. Wouldn't it be great if we could stop the reactio
 and keep the vibrant color and pure herb flavor?
 
 Turns out that alcohol and vitamin C are able to neutralize PPO (hence why guacamole, with lime,
-browns slower than a plain avocado, and why tequila infused quac presumably brows slower than both...),
+browns slower than a plain avocado, and why tequila infused guac presumably brows slower than both...),
 but it's not easy to get those into the muddled herb quickly enough, unless the herbs are finely
 powdered. Which brings us back to freezing flowers with LN and shattering them...
 
