@@ -57,6 +57,11 @@ twitter      = "asciimike"
 instagram    = "asciimike"
 
 avatar       = "images/asciimike_540x540.png"
+ignoreErrors = ["error-remote-getjson"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
 # highlightjslanguages = ["go"] # additional languages not included in the "common" set
 
 # extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove files as necessary.
