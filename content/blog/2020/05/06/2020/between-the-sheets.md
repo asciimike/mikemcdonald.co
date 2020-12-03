@@ -12,7 +12,7 @@ year or two after I visited, but I was ecstatic when he published
 [*Liquid Intelligence*](https://amzn.to/2W8SPtJ), a scientific approach to making
 great cocktails. This book led me to [Modernist](https://modernist.club), where
 [Carlo](https://www.linkedin.com/in/carlo-splendorini-8682b4156/) would make
-Aviation infused grapes, smoked Old Fashioned, and more. I was entranced.
+Aviation infused grapes, smoked Old Fashioneds, and more. I was entranced.
 
 There have been numerous reports of alcohol consumption increasing by 40-50%
 during quarantine, and I am no exception. However, in an effort to make my
@@ -74,7 +74,7 @@ Mind.
 
 Blown.
 
-My college girlfriend's dad was a financial planner, and my graduation gift was a
+My college girlfriend's dad was a financial planner, and my graduation gift was
 an entire financial plan in Excel, complete with AMT calculations, all the
 fancy retirement savings vehicles, and more. I still use it years later because its
 easy to modify and can give me a very accurate picture of what things look like. Not
