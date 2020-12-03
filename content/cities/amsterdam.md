@@ -7,7 +7,7 @@ slug = "amsterdam"
 
 ## Map
 
-Add [my favorite places in Amsterdam](https://goo.gl/maps/8rjGJ2C18oD2) and they'll
+Add [my favorite places in Amsterdam](https://goo.gl/maps/LmKW4yNhZx6Bysm26) and they'll
 appear on the map below!
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
