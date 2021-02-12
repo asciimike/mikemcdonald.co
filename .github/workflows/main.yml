@@ -28,7 +28,16 @@ jobs:
         with:
           name: public
           path: public
-      
+      - name: Upload firebase.json
+        uses: actions/upload-artifact@v2
+        with:
+          name: firebase.json
+          path: firebase.json
+      - name: Upload .firebaserc
+        uses: actions/upload-artifact@v2
+        with:
+          name: .firebaserc
+          path: .firebaserc
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -37,6 +46,14 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: public
+      - name: Download firebase.json
+        uses: actions/download-artifact@v2
+        with:
+          name: firebase.json
+      - name: Download .firebaserc
+        uses: actions/download-artifact@v2
+        with:
+          name: .firebaserc
       - name: Get firebase-tools
         uses: w9jds/firebase-action@v2.0.0
         with:
