@@ -20,6 +20,8 @@ jobs:
         
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.4.13
+        with:
+          submodules: true
       
       - name: Hugo build
         run: hugo --theme cocoa
