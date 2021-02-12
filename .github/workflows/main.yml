@@ -25,4 +25,4 @@ jobs:
         uses: peaceiris/actions-hugo@v2.4.13
         
       - name: Hugo build
-        run: hugo --theme cocoa
+        run: hugo --theme cocoa-hugo-theme
