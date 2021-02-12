@@ -14,15 +14,31 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
         with:
           submodules: true
           fetch-depth: 0
-        
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.4.13
-        
       - name: Hugo build
         run: hugo --theme cocoa-hugo-theme
+      - name: Upload /public
+        uses: actions/upload-artifact@v2
+        with:
+          name: public
+          path: public
+      
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download /public
+        uses: actions/download-artifact@v2
+        with:
+          name: public
+      - name: Get firebase-tools
+        uses: w9jds/firebase-action@v2.0.0
+        with:
+          args: deploy --only hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
