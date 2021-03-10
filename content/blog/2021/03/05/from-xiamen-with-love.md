@@ -59,7 +59,7 @@ I can get more or less the same painting for *three orders of magnitude* less. W
 
 Clearly, I'd be buying a forgery (ahem *fine art replica*), but who cares? I'm not trying to pass it off
 as the real thing (I was even thinking that we should sign it "Made in China"), I just like the piece.
-The difference in price is clearly the *provinence* of the painting: one is an original, meticulously
+The difference in price is clearly the *provenance* of the painting: one is an original, meticulously
 painted by Tom in his studio in NYC, and one, well, that one is produced in what is probably a
 sweatshop in southern China by someone who churns out a Picasso a week.
 
@@ -83,7 +83,7 @@ Then I realized, "Holy shit, NFTs are brilliant, they recognized that the tangib
 digital art is $0, yet have created a way to monetize the intangible 'value' of said art."
 It's brilliant. Also extremely stupid, but welcome to the economy in 2021.
 
-NFTs have captured the intangibles of art (the providence, which translates to signaling value),
+NFTs have captured the intangibles of art (the provenance, which translates to signaling value),
 while recognizing that the tangible aspect (you know, the part where anyone can view or download
 the art) is worthless. It's honestly a brilliant maneuver by whoever is selling them.
 
